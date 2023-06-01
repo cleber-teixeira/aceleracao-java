@@ -1,0 +1,47 @@
+[33mcommit 52030b205ce6dda9e2283e5570fd8691055c6304[m[33m ([m[1;36mHEAD -> [m[1;32mmodulo-02[m[33m, [m[1;31morigin/modulo-02[m[33m)[m
+Author: DESKTOP-JV7IJVI\Cleber <cleberlt@gmail.com>
+Date:   Tue May 30 15:20:12 2023 -0300
+
+    :sparkles: feat - Adiciona o pacote 'orientacaoObjestos' e as classes: 'Pessoa' e 'Principal', aborda o estudo de Construtores Inplícitos em Java.
+
+[33mcommit c275699524edc4210cedb34195457091264e678d[m
+Author: DESKTOP-JV7IJVI\Cleber <cleberlt@gmail.com>
+Date:   Tue May 30 10:43:21 2023 -0300
+
+    :sparkles: feat - Inclui o exercício de cálculo de IMC.
+
+[33mcommit 4089fb8e509aaa948d673aa3cb4f1f33709871f3[m
+Author: DESKTOP-JV7IJVI\Cleber <cleberlt@gmail.com>
+Date:   Tue May 30 09:43:22 2023 -0300
+
+    :books: docs - Adição de README.
+
+[33mcommit 97d32794fe784abebac152ad0402d4f965a5bfc0[m
+Author: DESKTOP-JV7IJVI\Cleber <cleberlt@gmail.com>
+Date:   Tue May 23 11:42:29 2023 -0300
+
+    :books: docs: Atualização da documentação em 'instanciandoObjetosDeUmaClasse'.
+
+[33mcommit 8d6f331d5c33c4e6a8be3d8d686f25fb9dbcce82[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: DESKTOP-JV7IJVI\Cleber <cleberlt@gmail.com>
+Date:   Tue May 23 10:13:20 2023 -0300
+
+    :tada: Commit inicial
+
+[33mcommit b0534273e79251a1de0526ffdca112ba8db0aa4b[m
+Author: Cleber Teixeira <cleberlt@gmail.com>
+Date:   Tue May 16 16:13:13 2023 -0300
+
+    Create demo.project.git
+
+[33mcommit b5eabcbdc0fa7932cbce6bd41dae21d573df4926[m
+Author: Cleber Teixeira <cleberlt@gmail.com>
+Date:   Tue May 16 16:11:21 2023 -0300
+
+    Update README.md
+
+[33mcommit 946ad148c806217eeb1f2cf133131bb128d3d41f[m
+Author: Cleber Teixeira <cleberlt@gmail.com>
+Date:   Tue May 16 16:10:30 2023 -0300
+
+    Initial commit
