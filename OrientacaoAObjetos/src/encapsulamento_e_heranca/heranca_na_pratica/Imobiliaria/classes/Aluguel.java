@@ -35,5 +35,4 @@ public class Aluguel extends Imovel {
 		this.alugado = true;
 	}
 	
-	
 }
