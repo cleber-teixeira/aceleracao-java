@@ -6,7 +6,8 @@ public class Imovel {
 
 	private String endereco;
 	private LocalDate dataCadastro;
-	private boolean ativo;
+	// modificador de acesso como 'protected' permite que as classes filhas possam visualizar e modificar diretamente o mesmo.
+	protected boolean ativo;
 	
 	public Imovel(String endereco, LocalDate dataCadastro) {
 		super();
@@ -39,5 +40,8 @@ public class Imovel {
 		this.ativo = true;
 	}
 	
+	public void desativarCadastro() {
+		this.ativo = false;
+	}
 	
 }
