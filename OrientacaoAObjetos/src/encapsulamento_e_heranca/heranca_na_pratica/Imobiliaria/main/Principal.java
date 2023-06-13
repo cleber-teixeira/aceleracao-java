@@ -18,6 +18,17 @@ public class Principal {
 		System.out.println("\nEndereço: " + apto2.getEndereco());
 		System.out.println("Valor venda: " + NumberFormat.getCurrencyInstance().format(apto2.getValorVenda()));
 		
+		// ativa o cadastro do apartamento 1
+		apto1.ativarCadastro();
+		
+		// desativa o cadastro do apartamento 1
+		// apto1.desativarCadastro();
+		
+		// aluga o apartamento 1
+		apto1.alugar();
+		
+		// imprime se o apartamento 1 foi alugado
+		System.out.println("\nO apartamento 1 foi alugado: " + apto1.isAlugado());
 	}
 
 }
