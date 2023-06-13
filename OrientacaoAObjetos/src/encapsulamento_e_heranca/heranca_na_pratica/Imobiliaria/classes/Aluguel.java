@@ -12,9 +12,10 @@ public class Aluguel extends Imovel {
 	private boolean alugado;
 
 	// método construtor
-	public Aluguel(String endereco, LocalDate dataCadastro) {
+	public Aluguel(String endereco, LocalDate dataCadastro, double valorAluguel) {
 		super(endereco, dataCadastro);
 		
+		this.valorAluguel = valorAluguel;
 		this.alugado = false;
 	}
 
