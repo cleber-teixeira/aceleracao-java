@@ -1,7 +1,5 @@
 package Projetos.CalculosDoVeiculo;
 
-import java.text.NumberFormat;
-
 public class Dados {
 
 	// Atributos
@@ -71,5 +69,4 @@ public class Dados {
 	public void setValorCombustivel(double valorCombustivel) {
 		this.valorCombustivel = valorCombustivel;
 	}
-
 }
