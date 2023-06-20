@@ -3,7 +3,7 @@ package Projetos.CalculosDoVeiculo;
 import java.util.Scanner;
 
 /**
- * Método 'Principal', este é o método principal responsável por rodar o sistema 'Cálculos do Veículo'.
+ * Método 'Principal', este é o método principal responsável por rodar o sistema 'Cálculos do Veículo' cujo o objetivo é calcular a quilometragem, consumo e os gastos com combustível do veículo informado.
  * @author Cleber Teixeira
  * @author Julia Marinetto
  * @author Luiz Felipe
